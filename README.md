@@ -1,5 +1,5 @@
 # TP6_ObeidGiorgioni  
-![image](images/logoitba.png)  
+![image](images/logoitba(1).png)  
 
 TP 6 Informática Médica (20242C)  
 
