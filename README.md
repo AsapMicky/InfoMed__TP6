@@ -1,6 +1,5 @@
 # TP6_ObeidGiorgioni  
-![image](images/logoitba (1).png)  
-
+![image](images/logoitba%20(1).png)  
 TP 6 Informática Médica (20242C)  
 
 ## Profesores  
